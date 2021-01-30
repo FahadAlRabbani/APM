@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
-An tutorial app designing a Angular App - https://angular.io/tutorial
+An tutorial app designing an Angular App - https://angular.io/tutorial
 
 ## Development server
 
